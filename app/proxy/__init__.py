@@ -1,3 +1,0 @@
-from app.proxy.router import router
-
-__all__ = ["router"]
